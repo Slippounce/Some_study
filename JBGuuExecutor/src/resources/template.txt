@@ -1,0 +1,23 @@
+
+
+
+sub main
+
+
+
+    set a 2
+	    
+
+        
+
+	set b 4
+
+
+	call foo 
+
+
+    print b
+
+
+sub foo
+set c 32
